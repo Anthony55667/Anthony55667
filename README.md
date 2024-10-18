@@ -10,3 +10,10 @@
 Anthony55667/Anthony55667 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+echo "# Anthony55667" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Anthony55667/Anthony55667.git
+git push -u origin main![1000000351](https://github.com/user-attachments/assets/a83d0c81-c974-46b8-9af7-6cf53d29a452)
